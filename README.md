@@ -37,7 +37,7 @@ Cat child*kitten
 
 administrator_id in trivia.php - administrator's Telegram ID.
 
-Bot includes question list in russian.
+Bot includes question list in russian, images for questions from quiz2 - http://magir.ru/files/images.tar.gz
 
 # Описание на русском языке
 Бот задает вопросы на которые отвечают игроки. Игроки видят ответы друг-друга. Первый ответивший до подсказки получает 3 балла, после подсказки - 1 балл.
@@ -78,4 +78,4 @@ Bot includes question list in russian.
 administrator_id в файле trivia.php - Telegram ID администратора.
 
 
-Бот включает базу вопросов на русском языке.
+Бот включает базу вопросов на русском языке, изображения для вопросов из quiz2 - http://magir.ru/files/images.tar.gz
